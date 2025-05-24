@@ -1,0 +1,97 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+.env*
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbbs.db
+.DS_Store
+
+# Installer files
+*.msi
+
+# Project specific
+/Tableau--Navigating-the-Energy-Landscape/
+/Tableau -Navigating the Energy Landscape/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Sensitive information
+*.env
+config.ini
+credentials.json
+
+# System files
+Thumbs.db
+
+# Python virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+
+# SafeGraph data files
+safegraph_data/
+
+# Tableau files
+*.twb~
+*.twbr
+*.tde
+*.hyper
+
+# Tableau Packaged Workbook Temp Files
+*.twbx~
+
+# EIA data files
+eia_data/ 
